@@ -1,27 +1,9 @@
 
-# Laravel+Vue Crud Starter
+# Laravel+Vue Firesell todo app
 
 
-[![Build Status](https://dev.azure.com/anowarhossain/laravel-vue-crud-starter/_apis/build/status/AnowarCST.laravel-vue-crud-starter?branchName=master)](https://dev.azure.com/anowarhossain/laravel-vue-crud-starter/_build/latest?definitionId=6&branchName=master)
 
 
-## About Repository
-
-A very simple Laravel 8 + Vue 2 + AdminLTE 3 based Curd Starter template for SPA Application.
-<p align="center">
-<img src="https://i.imgur.com/mZAHbUL.png">
-<img src="https://i.imgur.com/3hhoQnq.png">
-<img src="https://i.imgur.com/aHtQkYl.png">
-<img src="https://i.imgur.com/V7OuwLn.png">
-</p>
-
-## Tech Specification
-
-- Laravel 8
-- Vue 2 + VueRouter + vue-progressbar + sweetalert2 + laravel-vue-pagination
-- Laravel Passport
-- Admin LTE 3 + Bootstrap 4 + Font Awesome 5
-- PHPUnit Test Case/Test Coverage
 
 ## Features
 
