@@ -1,5 +1,5 @@
 
-# Firesell todo app (Laravel+Vue )
+# Todo app (Laravel+Vue )
 
 
 ## Installation
