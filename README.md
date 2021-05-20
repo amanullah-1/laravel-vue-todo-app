@@ -4,8 +4,8 @@
 
 ## Installation
 
-- `git clone https://github.com/amanullah-1/firesell-todo.git`
-- `cd firesell-todo/`
+- `git clone https://github.com/amanullah-1/laravel-vue-todo-app.git`
+- `cd laravel-vue-todo-app/`
 - `composer install`
 - `cp .env.example .env`
 - Update `.env` and set your database credentials
