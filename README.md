@@ -18,7 +18,7 @@
 - `php artisan serve`
 
 
-## APi End points for local run
+## API end points for local run
 
 - `http://127.0.0.1:8000/api/register`
 - `http://127.0.0.1:8000/api/login`
@@ -29,6 +29,6 @@
 - `http://127.0.0.1:8000/api/user/?token=eyJ0eXAiOiJKV1Qi....`
 
 
-## APi End points for user front and backend
+## API end points for user front and backend
 - `http://127.0.0.1:8000/todos`
 - `http://127.0.0.1:8000/users`
