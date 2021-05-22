@@ -24,7 +24,7 @@
 - `http://127.0.0.1:8000/api/login`
 
 
-- `(Accept all the methods GET/POST/PUT/DELETE)`
+>  (Accept all the methods GET/POST/PUT/DELETE)
 - `http://127.0.0.1:8000/api/todos/?token=eyJ0eXAiOiJKV1Qi....`
 - `http://127.0.0.1:8000/api/user/?token=eyJ0eXAiOiJKV1Qi....`
 
